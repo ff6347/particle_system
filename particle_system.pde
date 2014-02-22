@@ -36,7 +36,7 @@ void setup() {
   size(400,300);
   psys = new System(10, 10);
   // or use
-  //psys = new System( width of Particle, height of Particle); 
+  //psys = new System( width of Particle, height of Particle);
   // or use
   //psys = new System(number of new Particles, width of Particle, height of Particle, lifetime of Particle);
 }
